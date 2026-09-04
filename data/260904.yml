@@ -7,7 +7,7 @@ about:
   head: 16c6057
   archived: true
   latestVersion: v0.2.7
-  collectedAt: 2026-09-04T19:20:04Z
+  collectedAt: 2026-09-04T21:12:58Z
 timeline:
   created: 2021-07-08
   lastCommit: 2026-04-30
@@ -77,5 +77,18 @@ total:
   openIssue: 0
   commit: 1
 ---
+path: /home/runner/.x-repo/github.com/dnaka91/otti
+collectedAt: 2026-09-04T21:12:58Z
+loc:
+  Markdown:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 0
+  comments: 1
+  blanks: 0
+  files: 1
 ---
 
