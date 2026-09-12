@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1068056,
       "digest": null,
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2023-02-11T07:19:21Z",
       "updated_at": "2023-02-11T07:19:22Z",
       "browser_download_url": "https://github.com/dnaka91/otti/releases/download/v0.2.7/otti-x86_64-unknown-linux-gnu.tar.gz"
